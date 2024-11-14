@@ -1,0 +1,1 @@
+An Exploratory Data Analysis (EDA) project on Talco customer churn, analyzing key factors behind churn with insights, Python scripts, raw data, and presentation slides for actionable business recommendations.
